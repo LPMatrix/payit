@@ -1,0 +1,20 @@
+Here’s are some cards that work on our test environment.
+
+Card Number: 4084 0840 8408 4081
+Expiry Date: any date in the future
+CVV: 408
+
+Card Number: 4123450131001381
+Expiry Date: any date in the future
+CVV: 883
+
+Card Number: 506 6666 6666 6666 6666 (Verve)
+Expiry Date: any date in the future
+CVV: 666
+PIN: 1234
+OTP: 123456
+
+The admin dashboard is at paystack.com and the email is mubaraqsanusi908@gmail.com and the password is rainfall. The admin dashboard is where you can check those who have paid. To  do that just go to paystack.com
+
+
+Client-side tokenization is the method the system uses to collect card information directly from the customers in a secure manner. During this process, a token representing this information is returned to the server for use in a charge request (or to save the card details for later use). Tokens can only be used once and expire within a few minutes.
